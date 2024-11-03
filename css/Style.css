@@ -97,7 +97,7 @@ span {
     position: relative; 
     border-left: solid 0.6rem transparent; 
     border-bottom: solid 0.6rem transparent; 
-    border-image: linear-gradient(135deg, transparent 5%, var(--main-color)); 
+    border-image: linear-gradient(135deg, transparent 5%,, var(--main-color)); 
     border-image-slice: 1; 
     border-image-width: 0.6rem; 
 }
